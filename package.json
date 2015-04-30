@@ -1,5 +1,5 @@
 {
-  "name": "xresourcesToScss",
+  "name": "xresources-to-scss",
   "version": "0.1.0",
   "description": "A simple Xresources parser that spits out a scss variables file",
   "main": "dist/index.js",
