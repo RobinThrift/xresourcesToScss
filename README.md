@@ -1,5 +1,9 @@
 # .Xresources to SCSS
 
+```
+$ npm install xresources-to-scss
+```
+
 This will take a `.Xresources` file, extract the colours and output them as variables into a `.scss` file. 
 There will be a variable for each colour (i. e. `color0-15`) with the same name.
 
