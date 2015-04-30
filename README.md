@@ -1,0 +1,1 @@
+# .Xresources to SCSS
