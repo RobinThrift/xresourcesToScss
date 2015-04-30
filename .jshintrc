@@ -1,0 +1,15 @@
+{
+    "undef": true,
+    "unused": true,
+    "curly": true,
+    "eqeqeq": true,
+    "maxlen": 90,
+    "maxdepth": 6,
+    "noempty": true,
+    "quotmark": "single",
+    "esnext": true,
+    "noyield": true,
+    "node": true,
+    "mocha": true,
+    "predef": ["suiteTeardown", "suiteSetup"]
+}
